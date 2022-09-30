@@ -1,0 +1,24 @@
+.polycontainer{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    margin: 20px;
+}
+.polyItem1{
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+#fig{
+    text-align: center;
+    font-size: 15px;
+    margin: 30px;
+}
+
+.polyItem2{
+    display: flex;
+    justify-content: center;
+
+}
